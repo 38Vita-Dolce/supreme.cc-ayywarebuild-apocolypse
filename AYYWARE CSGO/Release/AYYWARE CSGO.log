@@ -1,0 +1,32 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (Apocalypse.vcxproj, AYYWARE CSGO.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  AntiAntiAim.cpp
+  Autowall.cpp
+  Chams.cpp
+  Controls.cpp
+  CRC32.cpp
+  DLLMain.cpp
+  Dumping.cpp
+  ESP.cpp
+  GUI.cpp
+  Hacks.cpp
+  Hooks.cpp
+  ReflectiveLoader.cpp
+  Interfaces.cpp
+  MathFunctions.cpp
+  Menu.cpp
+  MetaInfo.cpp
+  MiscHacks.cpp
+  NetVarManager.cpp
+  NetVars.cpp
+  Offsets.cpp
+  RenderManager.cpp
+  Resolver.cpp
+  RSP_S2DEX.cpp
+  SpoofedConvar.cpp
+  tinyxml2.cpp
+  UTIL Functions.cpp
+  Utilities.cpp
+  Window.cpp
+     Creating library E:\cheats\apocalypse (1)\apocalypse\Release\Supreme.cc.lib and object E:\cheats\apocalypse (1)\apocalypse\Release\Supreme.cc.exp
+  AYYWARE CSGO.vcxproj -> E:\cheats\apocalypse (1)\apocalypse\Release\Supreme.cc.dll
+  AYYWARE CSGO.vcxproj -> E:\cheats\apocalypse (1)\apocalypse\Release\Supreme.cc.pdb (Full PDB)
